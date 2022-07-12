@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tolga</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 👨‍💻 I’m currently studying at **Gusto&RemoteTeam Node.js Bootcamp at Patika.Dev**
+- 👨‍💻 I’m currently working at **OSF Digital** as a **Backend Developer**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m improving my skills in backend development with **Node.js**
 
 - ⚡ I'm interested in **coding, playing instruments and cycling.**
 
